@@ -1,4 +1,4 @@
-#Fri Jan 08 20:55:44 SGT 2021
+#Fri Jan 08 21:10:53 SGT 2021
 base.0=D\:\\BIMA\\Tugasku\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

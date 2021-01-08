@@ -26,26 +26,25 @@
 18-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
 19-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:10:9-35
-20        android:testOnly="true"
-21        android:theme="@style/AppTheme" >
-21-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:11:9-40
-22        <activity android:name="com.example.tugasku.SplashActivity" >
-22-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:12:9-18:20
-22-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:12:19-49
-23            <intent-filter>
-23-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:13:13-17:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:14:17-69
-24-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:14:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:16:17-77
-26-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:16:27-74
-27            </intent-filter>
-28        </activity>
-29        <activity android:name="com.example.tugasku.MainActivity" />
-29-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:19:9-49
-29-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:19:19-47
-30    </application>
-31
-32</manifest>
+20        android:theme="@style/AppTheme" >
+20-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.tugasku.SplashActivity" >
+21-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:12:9-18:20
+21-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:12:19-49
+22            <intent-filter>
+22-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:14:17-69
+23-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:16:17-77
+25-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="com.example.tugasku.MainActivity" />
+28-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:19:9-49
+28-->D:\BIMA\Tugasku\app\src\main\AndroidManifest.xml:19:19-47
+29    </application>
+30
+31</manifest>
