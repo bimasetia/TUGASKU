@@ -64,12 +64,20 @@
         "source": "D:\\BIMA\\Tugasku\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\BIMA\\Tugasku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete.xml.flat",
+        "source": "D:\\BIMA\\Tugasku\\app\\src\\main\\res\\drawable\\ic_baseline_delete.xml"
+    },
+    {
         "merged": "D:\\BIMA\\Tugasku\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\BIMA\\Tugasku\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\BIMA\\Tugasku\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "D:\\BIMA\\Tugasku\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BIMA\\Tugasku\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit.xml.flat",
+        "source": "D:\\BIMA\\Tugasku\\app\\src\\main\\res\\drawable\\ic_baseline_edit.xml"
     },
     {
         "merged": "D:\\BIMA\\Tugasku\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_task.xml.flat",
